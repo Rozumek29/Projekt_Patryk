@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+
+}
+.container{
+    border-radius: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(10%);
+    width: 50%;
+    height: 80vh;
+    background: #1A3A3A;
+}
+.section{
+    border: 1px solid whitesmoke;
+    padding-bottom: 10px;
+}
+table{
+    text-align: center;
+    width: 80%;
+}
+.first-fraction{
+    text-align: center;
+    align-items: center;
+    font-size: 32px;
+    display: inline-block;
+    text-align: center;
+}
+.second-fraction{
+    font-size: 32px;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 30px;
+    text-align: center;
+}
+h3{
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
